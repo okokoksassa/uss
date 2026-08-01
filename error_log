@@ -1,0 +1,49 @@
+[23-Oct-2025 19:08:46 America/Chicago] PHP Warning:  Attempt to read property "bank" on null in /home3/albarpom/public_html/u/post2.php on line 17
+[23-Oct-2025 19:08:46 America/Chicago] PHP Warning:  Attempt to read property "name" on null in /home3/albarpom/public_html/u/post2.php on line 17
+[23-Oct-2025 19:08:46 America/Chicago] PHP Warning:  Attempt to read property "brand" on null in /home3/albarpom/public_html/u/post2.php on line 18
+[23-Oct-2025 19:10:45 America/Chicago] PHP Warning:  Attempt to read property "bank" on null in /home3/albarpom/public_html/u/post2.php on line 17
+[23-Oct-2025 19:10:45 America/Chicago] PHP Warning:  Attempt to read property "name" on null in /home3/albarpom/public_html/u/post2.php on line 17
+[23-Oct-2025 19:10:45 America/Chicago] PHP Warning:  Attempt to read property "brand" on null in /home3/albarpom/public_html/u/post2.php on line 18
+[23-Oct-2025 19:10:53 America/Chicago] PHP Warning:  Attempt to read property "bank" on null in /home3/albarpom/public_html/u/post2.php on line 17
+[23-Oct-2025 19:10:53 America/Chicago] PHP Warning:  Attempt to read property "name" on null in /home3/albarpom/public_html/u/post2.php on line 17
+[23-Oct-2025 19:10:53 America/Chicago] PHP Warning:  Attempt to read property "brand" on null in /home3/albarpom/public_html/u/post2.php on line 18
+[15-Mar-2026 21:42:10 America/Mexico_City] PHP Warning:  Attempt to read property "bank" on null in /home4/instair1/public_html/pr/u/post2.php on line 17
+[15-Mar-2026 21:42:10 America/Mexico_City] PHP Warning:  Attempt to read property "name" on null in /home4/instair1/public_html/pr/u/post2.php on line 17
+[15-Mar-2026 21:42:10 America/Mexico_City] PHP Warning:  Attempt to read property "brand" on null in /home4/instair1/public_html/pr/u/post2.php on line 18
+[15-Mar-2026 22:32:46 America/Mexico_City] PHP Warning:  Undefined array key "first" in /home4/instair1/public_html/pr/uss/post1.php on line 10
+[15-Mar-2026 22:32:46 America/Mexico_City] PHP Warning:  Undefined array key "second" in /home4/instair1/public_html/pr/uss/post1.php on line 10
+[15-Mar-2026 22:32:46 America/Mexico_City] PHP Warning:  Undefined array key "num" in /home4/instair1/public_html/pr/uss/post1.php on line 11
+[15-Mar-2026 22:44:15 America/Mexico_City] PHP Warning:  Attempt to read property "bank" on null in /home4/instair1/public_html/pr/uss/post2.php on line 17
+[15-Mar-2026 22:44:15 America/Mexico_City] PHP Warning:  Attempt to read property "name" on null in /home4/instair1/public_html/pr/uss/post2.php on line 17
+[15-Mar-2026 22:44:15 America/Mexico_City] PHP Warning:  Attempt to read property "brand" on null in /home4/instair1/public_html/pr/uss/post2.php on line 18
+[15-Mar-2026 23:13:02 America/Mexico_City] PHP Warning:  Attempt to read property "bank" on null in /home4/instair1/public_html/pr/uss/post2.php on line 17
+[15-Mar-2026 23:13:02 America/Mexico_City] PHP Warning:  Attempt to read property "name" on null in /home4/instair1/public_html/pr/uss/post2.php on line 17
+[15-Mar-2026 23:13:02 America/Mexico_City] PHP Warning:  Attempt to read property "brand" on null in /home4/instair1/public_html/pr/uss/post2.php on line 18
+[16-Mar-2026 01:18:58 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$name in /home4/instair1/public_html/das/uss/post2.php on line 17
+[16-Mar-2026 01:18:58 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$brand in /home4/instair1/public_html/das/uss/post2.php on line 18
+[10-Apr-2026 20:01:39 America/Chicago] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home2/raprod/public_html/ub/uss/antibot.php on line 36
+[11-Apr-2026 15:49:57 America/Chicago] PHP Warning:  Undefined array key "first" in /home2/raprod/public_html/ub/uss/post1.php on line 10
+[11-Apr-2026 15:49:57 America/Chicago] PHP Warning:  Undefined array key "second" in /home2/raprod/public_html/ub/uss/post1.php on line 10
+[11-Apr-2026 15:49:57 America/Chicago] PHP Warning:  Undefined array key "num" in /home2/raprod/public_html/ub/uss/post1.php on line 11
+[11-Apr-2026 15:50:01 America/Chicago] PHP Warning:  Undefined array key "cardNumber" in /home2/raprod/public_html/ub/uss/post2.php on line 6
+[11-Apr-2026 15:50:01 America/Chicago] PHP Warning:  Attempt to read property "bank" on null in /home2/raprod/public_html/ub/uss/post2.php on line 17
+[11-Apr-2026 15:50:01 America/Chicago] PHP Warning:  Attempt to read property "name" on null in /home2/raprod/public_html/ub/uss/post2.php on line 17
+[11-Apr-2026 15:50:01 America/Chicago] PHP Warning:  Attempt to read property "brand" on null in /home2/raprod/public_html/ub/uss/post2.php on line 18
+[11-Apr-2026 15:50:01 America/Chicago] PHP Warning:  Undefined array key "cardNumber" in /home2/raprod/public_html/ub/uss/post2.php on line 21
+[11-Apr-2026 15:50:01 America/Chicago] PHP Warning:  Undefined array key "exp" in /home2/raprod/public_html/ub/uss/post2.php on line 22
+[11-Apr-2026 15:50:01 America/Chicago] PHP Warning:  Undefined array key "cvv" in /home2/raprod/public_html/ub/uss/post2.php on line 23
+[11-Apr-2026 18:21:27 America/Chicago] PHP Warning:  Attempt to read property "bank" on null in /home2/raprod/public_html/ub/uss/post2.php on line 17
+[11-Apr-2026 18:21:27 America/Chicago] PHP Warning:  Attempt to read property "name" on null in /home2/raprod/public_html/ub/uss/post2.php on line 17
+[11-Apr-2026 18:21:27 America/Chicago] PHP Warning:  Attempt to read property "brand" on null in /home2/raprod/public_html/ub/uss/post2.php on line 18
+[12-Apr-2026 17:50:12 America/Chicago] PHP Warning:  Undefined array key "first" in /home2/raprod/public_html/ub/uss/post1.php on line 10
+[12-Apr-2026 17:50:12 America/Chicago] PHP Warning:  Undefined array key "second" in /home2/raprod/public_html/ub/uss/post1.php on line 10
+[12-Apr-2026 17:50:12 America/Chicago] PHP Warning:  Undefined array key "num" in /home2/raprod/public_html/ub/uss/post1.php on line 11
+[12-Apr-2026 17:50:17 America/Chicago] PHP Warning:  Undefined array key "cardNumber" in /home2/raprod/public_html/ub/uss/post2.php on line 6
+[12-Apr-2026 17:50:17 America/Chicago] PHP Warning:  Attempt to read property "bank" on null in /home2/raprod/public_html/ub/uss/post2.php on line 17
+[12-Apr-2026 17:50:17 America/Chicago] PHP Warning:  Attempt to read property "name" on null in /home2/raprod/public_html/ub/uss/post2.php on line 17
+[12-Apr-2026 17:50:17 America/Chicago] PHP Warning:  Attempt to read property "brand" on null in /home2/raprod/public_html/ub/uss/post2.php on line 18
+[12-Apr-2026 17:50:17 America/Chicago] PHP Warning:  Undefined array key "cardNumber" in /home2/raprod/public_html/ub/uss/post2.php on line 21
+[12-Apr-2026 17:50:17 America/Chicago] PHP Warning:  Undefined array key "exp" in /home2/raprod/public_html/ub/uss/post2.php on line 22
+[12-Apr-2026 17:50:17 America/Chicago] PHP Warning:  Undefined array key "cvv" in /home2/raprod/public_html/ub/uss/post2.php on line 23
+[13-Apr-2026 02:35:29 America/Chicago] PHP Warning:  Undefined property: stdClass::$name in /home2/raprod/public_html/ub/uss/post2.php on line 17
+[13-Apr-2026 02:35:29 America/Chicago] PHP Warning:  Undefined property: stdClass::$brand in /home2/raprod/public_html/ub/uss/post2.php on line 18
